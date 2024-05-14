@@ -1,2 +1,3 @@
 # Circles
-Circles
+
+Circles is a Python Turtle project that generates mesmerizing animated patterns of colorful circles on a black background. The circles, drawn in a looping fashion, vary in size and color, creating an enchanting visual display reminiscent of cosmic phenomena. The colors cycle through a spectrum of red, orange, yellow, green, blue, and purple, adding vibrancy and dynamism to the artwork. As the circles expand and contract, their movements evoke a sense of cosmic motion and energy, transforming your screen into a captivating celestial spectacle. Run the code and immerse yourself in the mesmerizing beauty of Cosmic Circles.
